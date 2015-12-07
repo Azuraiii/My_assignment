@@ -1,5 +1,6 @@
 class West
 {
+  //west and dublin
   float west;
   float dublin;
   

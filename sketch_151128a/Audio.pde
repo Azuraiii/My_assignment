@@ -5,6 +5,7 @@ class Audio
   
   Audio()
   {
+    //loads audio file
     audio = minim.loadFile("applause_y.wav"); 
   }
   
